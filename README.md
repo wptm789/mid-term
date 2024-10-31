@@ -1,2 +1,2 @@
 # mid-term
-a.txt = test
+a.txt
